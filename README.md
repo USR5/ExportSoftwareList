@@ -1,0 +1,2 @@
+# ExportSoftwareList
+Windows10 Pro使用 PowerShell 导出计算机上安装的软件列表及其详细信息到桌面
